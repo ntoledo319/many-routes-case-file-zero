@@ -15,4 +15,4 @@ If you liked it, **[The Midnight Trolley File](https://binding-bench.itch.io/mid
 
 ## Licence
 
-The case text and PDF are free to play, print and share unchanged. Fonts are League Gothic and Libre Caslon Text (SIL OFL 1.1, licences in `fonts/`). Made with AI assistance and checked with an automated logic script. © Toledo Technologies.
+The case text and PDF are free to play, print and share unchanged. Fonts are League Gothic and Libre Caslon Text (SIL OFL 1.1, licences in `fonts/`). Made with AI assistance and checked with an automated logic script.

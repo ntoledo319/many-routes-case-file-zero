@@ -36,6 +36,6 @@ table{border-collapse:collapse;width:100%}td{border-bottom:.5pt solid #8c877c;pa
 <div class="cta"><b>Liked that? The full case: The Midnight Trolley File</b>
 <p>A 45–60 minute solo deduction case from 1950s Cleveland, built the same way: 30 numbered documents, 6 suspects, a five-level hint ladder in a separate file and a sealed solution that walks through every step. The logic is machine-checked so that only one answer fits. Printable PDF in US Letter and A4, $9.</p>
 <p><b style="font-size:11pt">binding-bench.itch.io/midnight-trolley-file</b></p></div>
-<p class="small">Case File Zero is free to play, print and share unchanged. It shares no clues or suspects with the paid case, so playing it spoils nothing. Made with AI assistance; the logic was checked by an automated script (check.mjs). © Toledo Technologies.</p>
+<p class="small">Case File Zero is free to play, print and share unchanged. It shares no clues or suspects with the paid case, so playing it spoils nothing. Made with AI assistance; the logic was checked by an automated script (check.mjs).</p>
 </section></body></html>`;
 fs.writeFileSync('case-file-zero.html', html); console.log('html', html.length);
